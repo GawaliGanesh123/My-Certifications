@@ -15,7 +15,7 @@ Through these certifications, I have gained **in-depth knowledge** and **hands-o
 - 🔹 Encapsulation & Abstraction  
 - 🔹 Polymorphism
      -  Compile-Time Polymorphism 
-     -  Run-Time Polymorphism
+     -  Run-Time Polymorphism 
 - 🔹Operator Overloading
 - 🔹 Virtual & Pure Virtual Functions
 - 🔹 Inheritance & Types of Inheritance  
